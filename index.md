@@ -24,8 +24,8 @@ Several side projects are listed below to demonstrate React websites and associa
 
 ## Projects
 
-### [Meal Delivery App](https://jglchen.github.io/meal-delivery/)
-###### A semi-commercial meal-delivery app for demonstrations.
+- ### [Meal Delivery App](https://jglchen.github.io/meal-delivery/)
+    A semi-commercial meal-delivery app for demonstrations.
 
 - #### [React Native Meal Delivery App](https://jglchen.github.io/react-native-meal-delivery/)
     The mobile version of the [Meal Delivery App](https://jglchen.github.io/meal-delivery/), a semi-commercial meal-delivery app for demonstrations.
