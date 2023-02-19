@@ -20,7 +20,7 @@ Several side projects are listed below to demonstrate React websites and associa
 
 ### Skills
 
-` CSS ` ` HTML5 ` ` JavaScript ` ` TypeScript ` ` Node.js ` ` React.js ` ` Next.js ` ` Express.js ` ` React Native ` ` SQL ` ` MySQL ` ` Firebase ` ` Docker ` ` REST API ` ` GraphQL ` ` jQuery ` ` PHP `
+`CSS` `HTML5` `JavaScript` `TypeScript` `Node.js` `React.js` `Next.js` `Express.js` `React Native` `SQL` `MySQL` `Firebase` `Docker` `REST API` `GraphQL` `jQuery` `PHP`
 
 ### Projects
 
