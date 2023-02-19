@@ -18,11 +18,11 @@ If you want to develop a web application and/or a mobile application, React will
 
 Several side projects are listed below to demonstrate React websites and associated React Native apps with similar plan designs:
 
-### Skills
+## Skills
 
 `CSS` `HTML5` `JavaScript` `TypeScript` `Node.js` `React.js` `Next.js` `Express.js` `React Native` `SQL` `MySQL` `Firebase` `Docker` `REST API` `GraphQL` `jQuery` `PHP`
 
-### Projects
+## Projects
 
 - #### [Meal Delivery App](https://jglchen.github.io/meal-delivery/)
     A semi-commercial meal-delivery app for demonstrations.
