@@ -16,6 +16,8 @@ A native mobile application is developed for use on a particular platform or dev
 
 If you want to develop a web application and/or a mobile application, React will be a strong building block for your development. A professional with strong knowledge and skills of **JavaScript**, **Node.js**, **React**, **React Native**, and solid experience of databases such as **MySQL**, etc. as well as with a good grasp of **CSS** and **RWD** will be the ideal one to help you develop the projects. **My name is John Chen, I am exactly the one you are looking for.**
 
+![app-web-mobile](/images/app-web-mobile.gif)
+
 Several side projects are listed below to demonstrate React websites and associated React Native apps with similar plan designs:
 
 ## Skills
