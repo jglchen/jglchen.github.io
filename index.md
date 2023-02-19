@@ -98,5 +98,6 @@ Several side projects are listed below to demonstrate React websites and associa
 - ### [React App Demo - Mobile Version](https://jglchen.github.io/react-app-demo-mobile/)
     Mobile version of [React App Demo](https://jglchen.github.io/react-app-demo/). 
 
+{% include giscus.html %}
 
 
