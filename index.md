@@ -14,7 +14,7 @@ Internet traffic from mobile devices has surpassed the traffic from desktops for
 
 A native mobile application is developed for use on a particular platform or device. In Android development, people can write codes in Kotlin or Java; in iOS, you can use Swift or Objective-C. **React Native** is a framework for building Android and iOS applications using React and the app platform’s native capabilities. With React Native, you use JavaScript to access your platform’s APIs as well as to describe the appearance and behavior of your UI using React components. By following similar plan designs, you can construct rich UI for native applications by IOS and Android. 
 
-If you want to develop a web application and/or a mobile application, React will be a strong building block for your development. A professional with strong knowledge and skills of **JavaScript**, **Node.js**, **React**, **React Native**, and solid experience of databases such as **MySQL**, etc. as well as with a good grasp of **CSS** and **RWD** will be the ideal one to help you develop the projects. **My name is John Chen, I am exactly the one you are looking for.**
+If you want to develop a web and/or mobile application, React will be a strong building block for your development. A professional with strong knowledge and skills in **JavaScript**, **Node.js**, **React** and **React Native**, and solid experience with databases such as **MySQL**, etc. as well as a good grasp of **CSS** and **RWD** will be the ideal one to help you develop the projects. **My name is John Chen, I am exactly the one you are looking for.**
 
 ![app-web-mobile](/images/app-web-mobile.jpeg)
 
